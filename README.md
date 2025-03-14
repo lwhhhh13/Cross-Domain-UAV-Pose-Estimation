@@ -10,3 +10,7 @@ We also provide several scripts for processing the dataset.
 If you want to generate a point cloud from images, you can run the following script:
 ```bash
 python image2pointcloud.py
+
+If you want to collect 2D-3D matching pairs with both positive and negative samples, you can use the following script:
+```bash
+python sample.py
