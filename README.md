@@ -3,7 +3,7 @@ We present a novel attempt in UAV visual localization by leveraging cross-domain
 ## Data Download
 Our datasets can be accessed using the following method:
 
-**Baidu Netdisk**: https://pan.baidu.com/s/1rbE5k8smJQdGtoTSLIBM3Q?pwd=cty7  (Access Code: cty7)
+**Baidu Netdisk**: https://pan.baidu.com/s/17yfB-p-9kE_LTQuo4aPP7Q (Access Code: gcjf)
  
 
 We also provide several scripts for processing the dataset.
